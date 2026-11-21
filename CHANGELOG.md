@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [Unreleased]
+## [1.0.0] - 2026-11-21
 
 ### Added
 - **Project Setup**: Maven project with Spring Boot 4.1.2, Spring Data JPA, MySQL (`linear` schema), Lombok and SpringDoc OpenAPI, with `dev` and `prod` profiles.

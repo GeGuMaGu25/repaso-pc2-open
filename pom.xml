@@ -10,7 +10,7 @@
     </parent>
     <groupId>app.linear.platform</groupId>
     <artifactId>pc20729u202216448</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <name>Linear Platform</name>
     <description>Linear Platform is a RESTful API built on the foundations of Domain-Driven Design (DDD). Developed with Java 27, Spring Boot 4, and MySQL, the platform supports Linear operations by managing the roadmap cycles planned by software teams.</description>
     <url/>
